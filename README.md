@@ -5,7 +5,7 @@
 修改 `choujiangsheding.php` 文件，请保证区块中的值加起来为1
 
 # 使用方式
-把所有文件放到 public 下
+把所有文件放到 public 下（readme不用）
 
 # 替换图片
 你自己问ai吧……就是换个链接，或者直接替换gif文件就行
